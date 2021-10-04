@@ -1,0 +1,1 @@
+git add . / * adiciona o git da máquina local ao branch do github para ser commitado posteriormente*
