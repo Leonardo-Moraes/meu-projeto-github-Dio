@@ -1,1 +1,3 @@
 git add . / * adiciona o git da máquina local ao branch do github para ser commitado posteriormente*
+git commit -m / * commita os arquivos que foram adicionados com git add, podendo colocar uma mensagem entre aspas após o -m *
+git push origin main / * pusha o arquivo para o github, assim realmente aparecendo na nuvem *
